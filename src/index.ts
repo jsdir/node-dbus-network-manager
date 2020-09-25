@@ -1,4 +1,5 @@
 export { AgentManager } from "./gen/AgentManager";
+export { AccessPoint } from "./gen/AccessPoint";
 export { ConnectionActive } from "./gen/Connection-Active";
 export { DeviceBridge } from "./gen/Device-Bridge";
 export { DeviceGeneric } from "./gen/Device-Generic";
