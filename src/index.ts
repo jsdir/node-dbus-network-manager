@@ -17,4 +17,4 @@ export { NetworkManager } from "./gen/NetworkManager";
 export { SettingsConnection } from "./gen/Settings-Connection";
 export { Settings } from "./gen/Settings";
 
-export * as Enums from "./enums";
+export * from "./enums";
